@@ -1,0 +1,56 @@
+Nombre: Briseida Tomasa
+Apellido: Morales Mateo
+Correo: bris@uvg.edu.gt
+Carrera: informática
+Semestre: cuarto
+Contraseña: 1234567b
+-----------------------------
+Nombre: Juan Alfonso 
+Apellido: Ralios Larios
+Correo: ral241916@uvg.edu.gt
+Carrera: informática
+Semestre: segundo
+Contraseña: 1234567r
+-----------------------------
+Nombre: mami
+Apellido: mor mio
+Correo: mor@gmail.com
+Carrera: segundo
+Semestre: segundo
+Contraseña: 1234567m
+-----------------------------
+Nombre: gaspar
+Apellido: ralios larios
+Correo: gas@uvg.edu.gt
+Carrera: forestal
+Semestre: quinto
+Contraseña: 1234567g
+-----------------------------
+Nombre: jjjjjjjjjjjjjjjjjjjj
+Apellido: tttttttttttt
+Correo: p@
+Carrera: jakdjkfa
+Semestre: msmfa,mds
+Contraseña: 1234567p
+-----------------------------
+Nombre: juan
+Apellido: larios
+Correo: alfonso@usac.edu.gt
+Carrera: segundo
+Semestre: sistemas
+Contraseña: 1234567a
+-----------------------------
+Nombre: Danilo
+Apellido: urizar
+Correo: dele241921@uvg.edu.gt
+Carrera: informatica
+Semestre: 1er semestre
+Contraseña: urizar12345
+-----------------------------
+Nombre: Tati
+Apellido: Lopez
+Correo: tati@uvg.edu.gt
+Carrera: Sistemas
+Semestre: 2
+Contraseña: Tati2024le!
+-----------------------------
